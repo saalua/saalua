@@ -1,25 +1,31 @@
-## Olá! Eu sou a Luana (:
- <div>
-  <a href="https://github.com/saalua">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saalua&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saalua&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-</div>
-  
-  ##
+## Oii, eu sou a Luana (:
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<p align="left"> 
+  👩🏽‍💻  Sou fascinada por tecnologia e <s>passo raiva</s> me divirto resolvendo problemas utilizando código.<br>
+  🤖  Atualmente trabalho com desenvolvimento de testes automatizados utilizando o framework Cypress.<br>
+</p>
+
+<p align="left">
+  💻 Habilidades: <strong>Javascript, HTML, CSS, Sass, Cypress, Java e Spring Boot</strong>
+</p>
+
+<p align="left">
+  🌱 Aprendendo: <strong>NodeJS e ReactJS</strong>
+</p>
+
+<p align="left">
+  💌 Se quiser conversar comigo, sinta-se à vontade para me chamar: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saalua" /></a>
  
-<div> 
-  <a href="https://instagram.com/lua_codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://t.me/luana_sdc" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23333?style=for-the-badge&logo=telegram" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/saalua" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+   <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/lua_codes"/></a>
+
+  <a href="#" alt="Telegram">
+  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/luana_sdc"/></a>
+</p>  
