@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  👩🏽‍💻  Sou fascinada por tecnologia e <s>passo raiva</s> me divirto resolvendo problemas utilizando código.<br>
+  ✌ Sou fascinada por tecnologia e <s>passo raiva</s> me divirto resolvendo problemas utilizando código.<br>
   🤖  Atualmente trabalho com desenvolvimento de testes automatizados utilizando o framework Cypress.<br>
 </p>
 
