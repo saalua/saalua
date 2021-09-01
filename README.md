@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  💻 Habilidades: <strong>Javascript, HTML, CSS, Sass, Cypress, Java e Spring Boot</strong>
+  💻 Habilidades: <strong>Javascript, HTML, CSS, Sass, Cypress, Java, Spring Boot, PostgreSQL</strong>
 </p>
 
 <p align="left">
-  🌱 Aprendendo: <strong>NodeJS e ReactJS</strong>
+  🌱 Aprendendo: <strong>NodeJS, ReactJS e Docker</strong>
 </p>
 
 <p align="left">
