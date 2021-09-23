@@ -30,14 +30,6 @@ const aboutMe = {
 <p align="left">
   <a href="https://www.linkedin.com/in/saalua" target="_blank" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saalua" />
-  </a>
- 
-   <a href="https://instagram.com/lua_codes" target="_blank" alt="Instagram">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/lua_codes"/>
-   </a>
-
-  <a href="https://t.me/luana_sdc" target="_blank" alt="Telegram">
-     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoColor=white&link=https://t.me/luana_sdc"/>
    </a>
 </p>
 
