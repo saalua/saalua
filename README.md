@@ -11,7 +11,6 @@ const aboutMe = {
       databases: ['PostgreSQL'],
       learning: ['Node', 'React', 'Sass', 'Docker']
    },
-   interests: ['web development', 'software development', 'fullstack', 'books', 'aliens', 'french fries'],
    currentOccupation: ['working with test automation using cypress', 'majoring in information systems'],
  };
 ```
