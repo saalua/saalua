@@ -5,13 +5,13 @@ const aboutMe = {
    pronouns: 'she/her',
    skills: {
       frontend: ['HTML', 'CSS', 'Javascript', 'Bootstrap'],
-      backend: ['Node', 'Sequelize', 'Express', 'Java', 'Spring Boot'],
+      backend: ['Java', 'Spring Boot'],
       tests: ['Cypress'],
       tools: ['Git', 'Github', 'Jira', 'Trello'],
       databases: ['PostgreSQL'],
-      learning: ['Node', 'React', 'Sass', 'Docker']
+      learning: ['Node', 'React', 'Docker']
    },
-   currentOccupation: ['working with test automation using cypress', 'majoring in information systems'],
+   currentOccupation: ['junior software developer', 'majoring in information systems'],
  };
 ```
 <br/>
