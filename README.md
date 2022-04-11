@@ -2,14 +2,13 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: 'she/her',
    skills: {
       frontend: ['HTML', 'CSS', 'Javascript', 'Bootstrap'],
       backend: ['Java', 'Spring Boot'],
       tests: ['Cypress'],
-      tools: ['Git', 'Github', 'Jira', 'Trello'],
+      tools: ['Git', 'Github', 'Gitlab', 'Jira', 'Trello'],
       databases: ['PostgreSQL'],
-      learning: ['Node', 'React', 'Docker']
+      learning: ['Vue', 'Node', 'Docker']
    },
    currentOccupation: ['junior software developer', 'majoring in information systems'],
  };
