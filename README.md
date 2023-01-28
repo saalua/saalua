@@ -10,7 +10,7 @@ const aboutMe = {
       databases: ['PostgreSQL'],
       learning: ['Vue', 'Node', 'Docker']
    },
-   currentOccupation: ['junior software developer', 'majoring in information systems'],
+   currentOccupation: ['software developer'],
  };
 ```
 <br/>
